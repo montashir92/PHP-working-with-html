@@ -21,10 +21,10 @@
 		<tr>
 			<td>Gendder :</td>
 			<td>
-                <input type="radio" name="gender" value="Male"/>Male
-                <input type="radio" name="gender" value="Female"/>Female
-                <input type="radio" name="gender" value="Others"/>Others
-            </td>
+				<input type="radio" name="gender" value="Male"/>Male
+				<input type="radio" name="gender" value="Female"/>Female
+				<input type="radio" name="gender" value="Others"/>Others
+		    	</td>
 		</tr>
 		 
 		<tr>
